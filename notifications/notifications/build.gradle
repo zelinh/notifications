@@ -100,7 +100,7 @@ dependencies {
     testImplementation(
             'org.assertj:assertj-core:3.19.0',
             'org.mockito:mockito-junit-jupiter:3.10.0',
-            'com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0',
+            'com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.1',
             'io.mockk:mockk:1.11.0',
             'io.mockk:mockk-common:1.11.0',
             'io.mockk:mockk-dsl:1.11.0',

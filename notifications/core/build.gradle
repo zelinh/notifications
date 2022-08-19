@@ -140,7 +140,7 @@ dependencies {
             "org.easymock:easymock:4.0.1",
             "org.apache.logging.log4j:log4j-core:${versions.log4j}",
             'org.mockito:mockito-junit-jupiter:3.10.0',
-            'com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0',
+            'com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.1',
             'io.mockk:mockk:1.11.0',
             'io.mockk:mockk-common:1.11.0',
             'io.mockk:mockk-dsl:1.11.0',
